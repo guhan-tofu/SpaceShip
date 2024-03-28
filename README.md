@@ -50,10 +50,20 @@ In conclusion, the effectiveness of the models was evaluated based on their perf
 The project requires the following dependencies:
 
 pandas
+
+
 numpy
+
+
 matplotlib
+
+
 seaborn
+
+
 scikit-learn
+
+
 xgboost
 
 
