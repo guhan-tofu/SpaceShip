@@ -59,8 +59,18 @@ xgboost
 
 ## Instructions
 To reproduce the results:
+
+
 1)Download the SpaceShip dataset (train.csv and test.csv).
+
+
 2)Run the provided Python code in a Jupyter Notebook or any Python environment.
+
+
 3)Follow the instructions within the code for preprocessing, model training, and evaluation.
+
+
 4)Adjust hyperparameters or explore additional models as needed.
+
+
 5)Save the final model predictions in CSV format for submission or analysis.
