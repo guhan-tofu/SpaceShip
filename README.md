@@ -90,4 +90,4 @@ To reproduce the results:
 This project was inspired by the [Kaggle SpaceShip Titanic](https://www.kaggle.com/competitions/spaceship-titanic/overview) competition and leverages code snippets and techniques from various online resources and tutorials.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
